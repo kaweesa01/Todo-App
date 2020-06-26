@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,OACI,qBACJ,CAEA,KACI,qBACJ","file":"main.9c06f5ec.chunk.css","sourcesContent":[".boxes {\r\n    background-color: aqua;\r\n}\r\n\r\nbody{\r\n    background-color: blue;\r\n}"]}
